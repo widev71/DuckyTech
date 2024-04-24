@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ee2d8f8.css",
+    "main.js": "/static/js/main.5469f603.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/astronot.webm": "/static/media/astronot.2bcb470092cafe7a26c1.webm",
+    "static/media/fortofolio01.png": "/static/media/fortofolio01.12eb69ce3ffe81a9a99a.png",
+    "static/media/wijayaCV.pdf": "/static/media/wijayaCV.bc4622dc90b70449e31d.pdf",
+    "static/media/examTime.png": "/static/media/examTime.591ef9f933d918e5a893.png",
+    "static/media/wijaya01.png": "/static/media/wijaya01.d79ac21d6f0987402201.png",
+    "static/media/herocat.png": "/static/media/herocat.1de7ee216de8fa649799.png",
+    "static/media/bemo.png": "/static/media/bemo.1c0b8e8d2fc695a91875.png",
+    "static/media/urlShortener.png": "/static/media/urlShortener.67755e1de9d5fb915fe5.png",
+    "static/media/tailwindDoc.png": "/static/media/tailwindDoc.a16ba40041a94503dbcc.png",
+    "static/media/rest-lumen.png": "/static/media/rest-lumen.29e770b8aeaf99f2581c.png",
+    "static/media/authentication.png": "/static/media/authentication.ab67c8846ebd7f570ae1.png",
+    "static/media/goproj.png": "/static/media/goproj.d5abcdf38b70ed47814c.png",
+    "static/media/01.png": "/static/media/01.099387fe126cc17f0220.png",
+    "static/media/linkedin.svg": "/static/media/linkedin.02a913a750b1dc8659465a38a9afb71b.svg",
+    "static/media/github.svg": "/static/media/github.99d293ec4fc754897eee3eae472fd4d3.svg",
+    "index.html": "/index.html",
+    "static/media/email.svg": "/static/media/email.1a8412a5fb218fa96ddd4e8be2e854c1.svg",
+    "main.1ee2d8f8.css.map": "/static/css/main.1ee2d8f8.css.map",
+    "main.5469f603.js.map": "/static/js/main.5469f603.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee2d8f8.css",
+    "static/js/main.5469f603.js"
+  ]
+}
